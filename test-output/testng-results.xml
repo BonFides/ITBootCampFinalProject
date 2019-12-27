@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-26T21:42:43 CET" name="Default suite" finished-at="2019-12-26T21:45:28 CET" duration-ms="164763">
+    <groups>
+    </groups>
+    <test started-at="2019-12-26T21:42:43 CET" name="Default test" finished-at="2019-12-26T21:45:28 CET" duration-ms="164763">
+      <class name="petStore.testNG.TestNGSignIn">
+        <test-method is-config="true" signature="setPreCond()[pri:0, instance:petStore.testNG.TestNGSignIn@ec756bd]" started-at="2019-12-26T21:42:43 CET" name="setPreCond" finished-at="2019-12-26T21:42:43 CET" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPreCond -->
+        <test-method is-config="true" signature="waitNsec()[pri:0, instance:petStore.testNG.TestNGSignIn@ec756bd]" started-at="2019-12-26T21:42:43 CET" name="waitNsec" finished-at="2019-12-26T21:42:45 CET" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitNsec -->
+        <test-method signature="testSignIn()[pri:0, instance:petStore.testNG.TestNGSignIn@ec756bd]" started-at="2019-12-26T21:42:45 CET" name="testSignIn" finished-at="2019-12-26T21:45:26 CET" duration-ms="161841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignIn -->
+        <test-method is-config="true" signature="waitNSec()[pri:0, instance:petStore.testNG.TestNGSignIn@ec756bd]" started-at="2019-12-26T21:45:26 CET" name="waitNSec" finished-at="2019-12-26T21:45:28 CET" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitNSec -->
+      </class> <!-- petStore.testNG.TestNGSignIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
